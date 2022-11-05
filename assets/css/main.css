@@ -5986,7 +5986,6 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   padding-right: 15px;
   margin-left: auto;
   margin-right: auto;
-  padding-bottom: 30rem !important;
 }
 @media (max-width: 767px) {
   .service_demo3 {
@@ -19049,7 +19048,7 @@ html:not(.no-js) [data-aos="fade-up"] {
   }
 }
 .dropdown_full .dropdown-menu .dropdown_menu_nav .item_colume {
-  width: calc(100% / 5);
+  width: calc(100% / 4);
 }
 @media (max-width: 991px) {
   .dropdown_full .dropdown-menu .dropdown_menu_nav .item_colume {

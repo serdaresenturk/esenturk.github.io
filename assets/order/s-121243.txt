@@ -18,4 +18,18 @@
       <b class='c-orange'>Devam ediyor</b>
     </div>
   </div>
+  <div class="col-md-12">
+    <div class="edSList">
+      <ul>
+        <li class="edEklenen"><span>01.01.2023</span> <br/>Sipariş başladı.</li>
+        <li class="edIslemde"><span>İşlemde</span> <br/>Sipariş ilerliyor.</li>
+        <li class="edSirada"><span>Sırada</span> <br/>Sipariş bitecek.</li>
+      </ul>
+      <div class='edListTNM'>
+        <span class='t1'>• Tamamlanan</span>
+        <span class='t2'>• Yapılan</span>
+        <span class='t3'>• Yapılacak olan</span>
+      </div>
+    </div>
+  </div>
 </div>

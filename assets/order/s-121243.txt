@@ -1,17 +1,17 @@
 <div class="row edSDA">
-  <div class="col-md-8 col-sm-12">
-    <b>Sipariş Sahibi</b>: @test<br/><br/>
+  <div class="col-lg-8 col-md-8 col-sm-12">
+    <b>Sipariş Sahibi</b>: @natrocup<br/><br/>
     
     <b>Çalışma Sınıfı</b>: <br/>
     Hazır Şablonlar (Blogger) <br/><br/>
     
     <b>Açıklama</b>: <br/>
-    Bu siparişin süreci <b>01.01.2023</b> tarihinde başladı ve tamamlanması için tahmini olarak <b>01.01.2023</b> tarihi gösterildi. Revize talepleri ve ek işlemlere bağlı olarak bu süre değişkenlik gösterebilir. Genelde tahmini tamamlanma tarihi maksimum aralığı temsil eder.
+    Bu siparişin süreci <b>12.01.2023</b> tarihinde başladı ve tamamlanması için tahmini olarak <b>27.01.2023</b> tarihi gösterildi. Revize talepleri ve ek işlemlere bağlı olarak bu süre değişkenlik gösterebilir. Genelde tahmini tamamlanma tarihi maksimum aralığı temsil eder.
   </div>
-  <div class="col-lg-4 col-md-6 col-sm-12">
+  <div class="col-lg-4 col-md-4 col-sm-12">
     <div class='edSP'>
-      <span>Siparişin başlatıldığı platform</span>
-      <img src='https://lh3.googleusercontent.com/-ps_H9MhjEHk/Y2ZHQNepnFI/AAAAAAAAwIw/fjKNUCD4FAkc6Orp1_8h-56fiabClKwxQCNcBGAsYHQ/h150/ed-bionluk-min.png'/>
+      <span>Siparişin başlatıldığı platform</span><br/>
+      <img src='https://lh3.googleusercontent.com/-xfuWzl6_xdU/Y2ZHQJ0KbKI/AAAAAAAAwI0/OiUJXxJzqM42gZYcaSdlDiCwNqPamRVZgCNcBGAsYHQ/h150/ed-r10-min.png'/>
     </div>
     <div class='edSDRM'>
       <span>Durum</span><br/>
@@ -19,11 +19,27 @@
     </div>
   </div>
   <div class="col-md-12">
+    <div class="row align-items-center edDM justify-content-md-center edDMpasif">
+      <div class="col-md-4 col-sm-12">
+        <a href="#" target="_blank" class="btn btn_sm_primary p c-white rounded-pill">
+          <i class="tio visible mr-1 align-middle font-s-16"></i> 
+          <span class="edAKT">Demo: <b>Aktif</b></span>
+          <span class="edPSF">Demo: <b>Pasif</b></span>
+        </a>
+      </div>
+      <div class="col-md-8 col-sm-12 edDMinfo">
+        <span class="edAKT">Demo şu anda ziyaret edilebilir. <br/> <i class="tio link mr-1 align-middle font-s-16"></i> https://xxxxxxxx.blogspot.com</span>
+        <span class="edPSF">Belirli aşamalarda yapılan testler ve henüz tamamlanmamış özelliklerden ötürü demo zaman zaman bu şekilde pasif duruma getirilebilir. </span>
+      </div>
+    </div> 
+  </div>
+  <div class="col-md-12">
     <div class="edSList">
       <ul>
-        <li class="edEklenen"><span>01.01.2023</span> <br/>Sipariş başladı.</li>
-        <li class="edIslemde"><span>İşlemde</span> <br/>Sipariş ilerliyor.</li>
-        <li class="edSirada"><span>Sırada</span> <br/>Sipariş bitecek.</li>
+        <li class="edEklenen"><span>12.01.2023</span> <br/>Sipariş başladı.</li>
+        <li class="edEklenen"><span>12.01.2023</span> <br/>Tema ve site içeriğiyle ilgili kaynaklar toplandı.</li>
+        <li class="edIslemde"><span>İşlemde</span> <br/>Yerleşim planı oluşturuluyor.</li>
+        <li class="edSirada"><span>Sırada</span> <br/>Hazır Blogger şablonu üzerinde yerleşim planının optimizasyonu sağlanacak.</li>
       </ul>
       <div class='edListTNM'>
         <span class='t1'>• Tamamlanan</span>

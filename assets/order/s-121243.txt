@@ -1,0 +1,21 @@
+<div class="row edSDA">
+  <div class="col-md-8 col-sm-12">
+    <b>Sipariş Sahibi</b>: @test<br/><br/>
+    
+    <b>Çalışma Sınıfı</b>: <br/>
+    Hazır Şablonlar (Blogger) <br/><br/>
+    
+    <b>Açıklama</b>: <br/>
+    Bu siparişin süreci <b>01.01.2023</b> tarihinde başladı ve tamamlanması için tahmini olarak <b>01.01.2023</b> tarihi gösterildi. Revize talepleri ve ek işlemlere bağlı olarak bu süre değişkenlik gösterebilir. Genelde tahmini tamamlanma tarihi maksimum aralığı temsil eder.
+  </div>
+  <div class="col-lg-4 col-md-6 col-sm-12">
+    <div class='edSP'>
+      <span>Siparişin başlatıldığı platform</span>
+      <img src='https://lh3.googleusercontent.com/-ps_H9MhjEHk/Y2ZHQNepnFI/AAAAAAAAwIw/fjKNUCD4FAkc6Orp1_8h-56fiabClKwxQCNcBGAsYHQ/h150/ed-bionluk-min.png'/>
+    </div>
+    <div class='edSDRM'>
+      <span>Durum</span><br/>
+      <b class='c-orange'>Devam ediyor</b>
+    </div>
+  </div>
+</div>
